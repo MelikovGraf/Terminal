@@ -48,4 +48,14 @@ $ curl -I http://162.55.220.72:5005/terminal-hw-request
 
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
-  
+https://github.com/MelikovGraf/Terminal/blob/main/homework_1/basic_script.sh
+
+!/bin/bash
+cd new
+mkdir di1 di2 di3 
+cd di1 
+touch 1.txt 2.txt 3.txt 4.json 5.json
+mkdir di4 di5 di6
+ls -la
+mv 1.txt ../di2
+mv 2.txt ../di2
