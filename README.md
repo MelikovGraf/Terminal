@@ -1,5 +1,6 @@
 # Linux terminal (GitBash) commands. Теория
-![alt text](https://github.com/MelikovGraf/Terminal/assets/98654937/c76b48a5-10ed-40d8-966f-7513baa2f977)
+
+![alt text](https://github.com/MelikovGraf/Terminal/assets/98654937/8c86632f-f614-45ec-bdc3-16d34cd0ea28)
 
 Посмотреть где я:
 Use the pwd command to check the current directory:
